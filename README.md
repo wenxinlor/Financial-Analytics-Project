@@ -1,4 +1,4 @@
-# Financial-Analytics-Project
+# Financial-Analytics-Project (Year 3 Sem 1) (2023)
 # Credit Scorecard Solution for Fintech Lender
 
 ## Objective
